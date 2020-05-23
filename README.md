@@ -1,4 +1,4 @@
-# C_Assignments_1rst_Semester
+# C_Assignments_1st_Semester
 My University Assignments for the first Semester - Introduction to Programming in C
 
 Table of contents:
