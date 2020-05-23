@@ -4,7 +4,8 @@ or to use the makefile just type make while in hex directory
 ! Important note:
 Team project that i attempted on my own in half a week
 didnt have the time to finish some features and clear the code of some errors
-most things work fine but this version can be unstable
+most things work fine but this version can be unstable but i plan to complete 
+the project in the future
 
 missing:
 -winning path
